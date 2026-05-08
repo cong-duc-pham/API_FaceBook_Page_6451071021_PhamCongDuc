@@ -1,7 +1,7 @@
-﻿using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc;
 using System.Net.Http;
 
-namespace YourProjectName.Controllers
+namespace FacebookPageAPI.Controllers
 {
     [Route("api/page")]
     [ApiController]
